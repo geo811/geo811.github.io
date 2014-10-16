@@ -1,0 +1,13 @@
+a:link {color:#0000FF;}      /* unvisited link */
+a:visited {color:#0000FF;}  /* visited link */
+a:hover {color:#0000FF;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+ 
+ 
+body
+{
+    background-image: url("https://dl.dropboxusercontent.com/u/42578330/website/html/personal/earth-space-wallpaper.jpg");
+    color:white;
+     
+    background-size: 100%;
+}
